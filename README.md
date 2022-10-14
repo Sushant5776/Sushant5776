@@ -18,7 +18,7 @@
 <h3>Skills</h3>
 <div align="center">
   <a href="https://github.com/Sushant5776/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant5776&langs_count=6&theme=algolia&layout=compact&hide_border=true"
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant5776&langs_count=6&theme=algolia&layout=compact&hide_border=true"
           alt="Sushant5776 :: overall Top Langs " />
 </a>
   
@@ -50,6 +50,7 @@
           alt="Sushant5776 :: overall Top Langs " />
 </a>
 </div> -->
+<br />
 
 <h3>Account Activities</h3>
 <div align="center">
