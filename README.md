@@ -16,11 +16,13 @@
 - ⚡ Fun fact: You are **awesome**!
 
 <h3>Skills</h3>
+<br />
 <div align="center">
   <a href="https://github.com/Sushant5776/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant5776&langs_count=6&theme=algolia&layout=compact&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant5776&langs_count=6&theme=algolia&layout=compact&hide_border=true"
           alt="Sushant5776 :: overall Top Langs " />
 </a>
+<br /><br />
   
   ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -53,12 +55,14 @@
 <br />
 
 <h3>Account Activities</h3>
+<br />
 <div align="center">
 <h4>Statistics</h4>
 <div align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushant5776&show_icons=true&theme=algolia" alt="Sushant5776" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant5776&theme=algolia" alt="Sushant5776" />
 </div>
+<br />
   
   <h4>Contributions Overview</h4>
   <img src="https://activity-graph.herokuapp.com/graph?username=Sushant5776&custom_title=Sushant5776's%20Contribution%20Graph&theme=algolia" alt="" />
