@@ -34,6 +34,7 @@
   ![React JS](https://img.shields.io/static/v1?label=&message=React%20js&color=61DAFB&style=for-the-badge&logo=React&logoColor=white)
   ![Next JS](https://img.shields.io/static/v1?label=&message=Next%20js&color=000000&style=for-the-badge&logo=Next.js&logoColor=white)
   ![Node JS](https://img.shields.io/static/v1?label=&message=Node%20JS&color=339933&style=for-the-badge&logo=Node.js&logoColor=white)
+  ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=003B57&style=for-the-badge&logo=SQLite)
   ![Firebase](https://img.shields.io/static/v1?label=&message=Google%20Firebase&color=FFCA28&style=for-the-badge&logo=Firebase&logoColor=white)
   ![MongoDB](https://img.shields.io/static/v1?label=&message=Mongo%20DB&color=47A248&style=for-the-badge&logo=MongoDB&logoColor=white)
   ![Stripe](https://img.shields.io/static/v1?label=&message=Stripe%20Payment%20API&color=008CDD&style=for-the-badge&logo=Stripe&logoColor=white)
