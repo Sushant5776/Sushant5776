@@ -2,8 +2,6 @@
 
 I’m a data science enthusiast blending programming, statistics, and curiosity to uncover insights. As one of the fastest-growing fields, data science excites me with its potential to drive smart decisions. I'm passionate about building models and applications that turn data into actionable solutions.
 
----
-
 ## 🛠️ Skills
 
 My skill set covers core data science tools and foundations.
@@ -28,22 +26,16 @@ My skill set covers core data science tools and foundations.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 ## 🎓 Certifications
 
 - **Professional Certificate in AI & Emerging Technologies** – IIT Hyderabad  
 - **DevOps with Docker** – University of Helsinki  
-
----
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sushant-garudkar)  
 - [Website](https://sushantgarudkar.in)  
 - [X (Twitter)](https://x.com/SushantGarudkar)  
-
----
 
 <!--
 ## 📂 Projects
