@@ -51,8 +51,8 @@ My skill set covers core data science tools and foundations.
 - **Project One:** A quick description of this project.
 - **Project Two:** A quick description of another project.
 - **Project Three:** A quick description of yet another project.
--->
 
 ---
+-->
 
 Thanks for visiting! I'm always eager to connect or collaborate on new ideas. Feel free to explore my work and reach out anytime.
