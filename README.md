@@ -1,50 +1,67 @@
-# Hi, I'm Sushant Garudkar 👋
+## Hi, I’m Sushant 👋
 
-I’m a data science enthusiast blending programming, statistics, and curiosity to uncover insights. As one of the fastest-growing fields, data science excites me with its potential to drive smart decisions. I'm passionate about building models and applications that turn data into actionable solutions.
-
-## 🛠️ Skills
-
-My skill set covers core data science tools and foundations.
-
-- **Programming & Libraries:** Python, SQL, NumPy, Pandas, scikit-learn  
-- **Big Data & Cloud:** PySpark, AWS, Google Cloud (Firebase), Domino Data Science Lab  
-- **Web & API Frameworks:** Streamlit, FastAPI  
-- **DevOps & Tools:** Docker, Jenkins, Git, GitHub, JupyterLab, Linux  
-- **Mathematics & Statistics:** Linear Algebra, Calculus, Probability, Statistics  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 🎓 Certifications
-
-- **Professional Certificate in AI & Emerging Technologies** – IIT Hyderabad  
-- **DevOps with Docker** – University of Helsinki  
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/sushant-garudkar)  
-- [Website](https://sushantgarudkar.in)  
-- [X (Twitter)](https://x.com/SushantGarudkar)  
-
-<!--
-## 📂 Projects
-
-- **Project One:** A quick description of this project.
-- **Project Two:** A quick description of another project.
-- **Project Three:** A quick description of yet another project.
+I’m an AI/ML **Data** Scientist from Pune, India, with hands-on experience in model validation (PDP, SHAP), large-scale data processing using PySpark, and scalable model deployment with Streamlit and Domino.[file:1] I enjoy building robust end-to-end ML pipelines that automate training, model selection, and model persistence for reproducible and efficient workflows.[file:1]
 
 ---
--->
 
-Thanks for visiting! I'm always eager to connect or collaborate on new ideas. Feel free to explore my work and reach out anytime.
+### 🔭 What I’m working on
+
+- Validating machine learning models with SHAP and PDP to drive business trust and interpretability.[file:1]  
+- Designing and maintaining end-to-end data pipelines in PySpark and Python for training and scoring.[file:1]  
+- Exploring scalable ML deployment patterns with tools like Streamlit and Domino.[file:1]  
+- Pursuing an M.Tech in Data Science and Artificial Intelligence at IIIT Dharwad.[file:1]
+
+---
+
+### 💼 Experience
+
+**Data Scientist Analyst III – Allstate India**  
+_Pune, India • July 2025 – Present_  
+- Working on data-driven solutions using machine learning and interpretability techniques like SHAP and PDP.[file:1]  
+- Collaborating with cross-functional teams to productionize models reliably and at scale.[file:1]
+
+**Apprentice Associate III (Data Science) – Allstate India**  
+_Pune, India • September 2024 – Present_  
+- Validated machine learning models to ensure interpretability and business alignment.[file:1]  
+- Built end-to-end PySpark and Python pipelines for efficient model training and scoring.[file:1]
+
+---
+
+### 🎓 Education
+
+**M.Tech – Data Science and Artificial Intelligence**  
+IIIT Dharwad (Online) • October 2025 – Present  
+Program link: https://online.iiitdwd.ac.in/dsai[file:1]
+
+**B.E. – Computer Engineering**  
+Savitribai Phule Pune University • August 2019 – April 2023  
+- CGPA: 8.66[file:1]
+
+---
+
+### 🧠 Skills & Tools
+
+- **Programming & Data:** Python, SQL, Pandas, Scikit-Learn[file:1]  
+- **Big Data & Processing:** Apache Spark / PySpark[file:1]  
+- **Cloud & DevOps:** Microsoft Azure, GCP Firebase, Docker (DevOps with Docker certification)[file:1]  
+- **ML Ops & Apps:** Streamlit, Domino (for deployment and experimentation)[file:1]  
+- **Model Explainability:** SHAP, PDP for model interpretation and validation.[file:1]
+
+---
+
+### 🏅 Certifications & Programs
+
+- Professional Certification in AI and Emerging Technologies – IIT Hyderabad (Jan 2024)[file:1]  
+- DevOps with Docker – University of Helsinki, Finland (June 2024)[file:1]  
+- GenAI Exchange Program 2025 – Hack2Skill & Google (April 2025 – October 2025)[file:1]
+
+---
+
+### 🌐 Connect with me
+
+- Portfolio: https://sushantgarudkar.in[file:1]  
+- GitHub: `Sushant5776`[file:1]  
+- LinkedIn: `sushant-garudkar`[file:1]  
+- Email: garudkar.sa@gmail.com[file:1]  
+
+Languages: Marathi, Hindi, English[file:1]
