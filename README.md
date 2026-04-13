@@ -41,11 +41,12 @@ Savitribai Phule Pune University • August 2019 – April 2023
 
 ### 🧠 Skills & Tools
 
-- **Programming & Data:** Python, SQL, Pandas, Scikit-Learn  
+- **Programming & Data:** Python, SQL, Pandas, Scikit-Learn, Google ADK (Agentic AI)  
 - **Big Data & Processing:** Apache Spark / PySpark  
-- **Cloud & DevOps:** Microsoft Azure, GCP Firebase, Docker (DevOps with Docker certification)  
+- **Cloud & DevOps:** GCP Firebase, Docker (DevOps with Docker certification)  
 - **ML Ops & Apps:** Streamlit, Domino (for deployment and experimentation)  
 - **Model Explainability:** SHAP, PDP for model interpretation and validation.
+- **AI and Research:** PyTorch, Tensorflow, Deep Learning, Speech and Natural Language Processing
 
 ---
 
